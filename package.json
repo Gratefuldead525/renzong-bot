@@ -1,1 +1,16 @@
-
+{
+  "name": "renzong-bot",
+  "version": "1.0.0",
+  "description": "任总机器人 - 钉钉群聊项目自动归档",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
